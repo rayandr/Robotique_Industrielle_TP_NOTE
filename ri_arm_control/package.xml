@@ -67,6 +67,7 @@
   <exec_depend>sensor_msgs</exec_depend>
   <exec_depend>std_msgs</exec_depend>
   <exec_depend>urdf</exec_depend>
+  <exec_depend>ri_arm_config</exec_depend>
 
 
   <!-- The export tag contains other, unspecified, tags -->

@@ -1,0 +1,8 @@
+std_msgs/Float32 base_link
+std_msgs/Float32 joint_1
+std_msgs/Float32 joint_2
+std_msgs/Float32 joint_3
+std_msgs/Float32 joint_4
+---
+std_msgs/Bool res
+std_msgs/String message
